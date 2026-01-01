@@ -1,1 +1,76 @@
-Sovereign Bank 🏦 🚀The first community-driven, non-custodial Web3 bank built for financial sovereignty.Sovereign Bank is a decentralized financial ecosystem designed to empower freelancers, relocators, and individuals in high-inflation economies. We bridge the gap between DeFi and real-world payments without compromising your privacy or control.🌟 Why Sovereign Bank?In a world of increasing financial censorship and corporate surveillance, we offer a "Code is Law" alternative. Unlike traditional fintech giants, we don't hold your keys, and we don't demand your life story for a simple transaction.🛡️ Sovereign Bank vs. The Old GuardFeatureUphold (Custodial Giant)Tangem (Hardware Gate)Sovereign Bank (Web3 Revolution)PhilosophyCorporate profit & controlSelling hardware devicesFinancial Sovereignty & CommunityDevelopment ModelCorporate / Closed-sourceCorporate / Hardware-lockedCommunity-driven / Open SourceOwnershipCustodial. They own your keys.Device-based. No card — no access.Self-Sovereign. Smart-contract based.Privacy / KYCMandatory & Strict. Full ID.Device-bound. Often requires KYC.Anonymous Tier. Freedom Card (up to $1k).Entry BarrierHigh. App + invasive verification.Medium. Must buy & wait for a card.Zero. Instant start via Telegram/Email.Censorship ResistanceNone. Funds can be frozen easily.Partial. Limited by the interface.Absolute. Funds sit in a smart contract.AvailabilityRestricted by many jurisdictions.Global, but limited by logistics.Truly Borderless. Arbitrum + Telegram.🛠 Tech Stack & RoadmapNetwork: Arbitrum (L2) for low-cost, lightning-fast transactions.Architecture: Account Abstraction (ERC-4337) for a seamless, "seedless" UX.Interface: Telegram Mini Apps & Web Interface.Status: Under active development (MVP Stage).💳 Product TiersFreedom Card: Anonymous, instant issuance via Telegram, limits up to $1000. No KYC.Resident Card: Higher limits, requires KYC, assets remain under smart-contract control.🤝 Investment OpportunityWe are currently seeking $335,000 for a 15% equity stake.Projected ROI: 18-24 months.Target Profit: $5-7M by the end of Year 3.📢 Community & DevelopmentSovereign Bank is community-driven. We believe in the power of open-source development and collective financial freedom.Discord: [https://discord.gg/RXKCZyJzp7]Telegram: []Financial freedom is not a privilege. It is a human right.
+# Sovereign Bank 🏦 🚀
+
+**The first community-driven, non-custodial Web3 bank built for true financial sovereignty.**
+
+Sovereign Bank is a decentralized financial ecosystem designed to empower freelancers, relocators, and individuals in high-inflation economies. We bridge the gap between DeFi and real-world payments without compromising your privacy or control.
+
+## 🌟 Our Mission
+In a world of increasing financial censorship and corporate surveillance, we offer a "Code is Law" alternative. Unlike traditional fintech giants, we don't hold your keys, and we don't demand your life story for a simple transaction.
+
+## 📊 Pitch Deck & Presentations
+
+Explore the Sovereign Bank vision in your preferred language. Click on the flags below to open the PDF presentation.
+
+| Language | Pitch Deck (PDF) | Key Markets |
+| :--- | :--- | :--- |
+| 🇺🇸 **English** | [Download / View](./docs/presentations/Sovereign_Bank_Deck_EN.pdf) | Global & Institutional |
+| 🇪🇸 **Español** | [Download / View](./docs/presentations/Sovereign_Bank_Deck_ES.pdf) | LATAM & Spain |
+| 🇷🇺 **Русский** | [Download / View](./docs/presentations/Sovereign_Bank_Deck_RU.pdf) | CIS & Relocators |
+| 🇨🇳 **中文 (Chinese)** | [Download / View](./docs/presentations/Sovereign_Bank_Deck_ZH.pdf) | Asian Markets |
+| 🇦🇪 **العربية (Arabic)** | [Download / View](./docs/presentations/Sovereign_Bank_Deck_AR.pdf) | MENA Region |
+| 🇧🇷 **Português** | [Download / View](./docs/presentations/Sovereign_Bank_Deck_PT.pdf) | Brazil & Global South |
+| 🇫🇷 **Français** | [Download / View](./docs/presentations/Sovereign_Bank_Deck_FR.pdf) | Africa & Europe |
+
+---
+
+---
+
+## 🛡️ Competitive Edge: Sovereign Bank vs. The Old Guard
+
+This table represents why we are building this project. We are not just another fintech; we are a tool for freedom.
+
+| Feature | **Uphold** (Custodial Giant) | **Tangem** (Hardware Gate) | **Sovereign Bank** (Web3 Revolution) |
+| :--- | :--- | :--- | :--- |
+| **Philosophy** | Corporate profit & control | Selling hardware devices | **Financial Sovereignty & Community** |
+| **Development Model** | **Corporate / Closed-source** | **Corporate / Hardware-locked** | **Community-driven / Open Source** |
+| **Ownership** | **Custodial.** They own your keys. | **Device-based.** No card — no access. | **Self-Sovereign.** Smart-contract based. |
+| **Privacy / KYC** | **Mandatory & Strict.** Full ID. | **Device-bound.** Often requires KYC. | **Anonymous Tier.** Freedom Card (up to $1k). |
+| **Entry Barrier** | High. App + invasive verification. | Medium. Must buy & wait for a card. | **Zero.** Instant start via Telegram/Email. |
+| **Censorship Resistance** | **None.** Funds can be frozen easily. | Partial. Limited by the interface. | **Absolute.** Funds sit in a smart contract. |
+| **Availability** | Restricted by jurisdictions. | Global, but limited by logistics. | **Truly Borderless.** Arbitrum + Telegram. |
+
+---
+
+## 🛠 Tech Stack & Architecture
+
+We leverage the most advanced L2 and Web3 technologies to provide a banking experience that feels like Web2 but acts like Web3.
+
+- **Network:** Arbitrum (L2) for low-cost, lightning-fast transactions.
+- **Protocol:** Account Abstraction (ERC-4337) for a seamless, "seedless" UX (biometrics & social recovery).
+- **Interface:** Telegram Mini Apps (TMA) & Web Dashboard.
+- **Smart Contracts:** Secure, audited, and open-source logic for 1% fee processing and card limits.
+
+## 💳 Product Tiers
+
+* **Freedom Card:** Anonymous, instant issuance via Telegram, limits up to $1,000. No KYC required.
+* **Resident Card:** Higher limits, requires KYC, assets remain under user-controlled smart contracts.
+
+---
+
+## 📈 Business Model & Investment
+
+Sovereign Bank is built for sustainability:
+- **Revenue:** Fixed card issuance fee + 1% transaction fee.
+- **Projected Profit:** $5-7M by the end of Year 3.
+- **Funding:** We are seeking **$335,000 for a 15% equity stake** to finalize MVP and scale to initial markets.
+
+## 📢 Join the Revolution
+
+We believe in the power of **community-driven development**. Sovereign Bank is built by the people, for the people.
+
+- 👾 **Discord:** [Join our community](Coming Soon)
+- ✈️ **Telegram:** [Follow the Founder's Journey](Coming Soon)
+- 🐙 **GitHub:** Star this repo to support the movement!
+
+---
+*Financial freedom is not a privilege. It is a human right.*
