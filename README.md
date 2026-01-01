@@ -7,6 +7,7 @@ Sovereign Bank is a decentralized financial ecosystem designed to empower freela
 ## 🌟 Our Mission
 In a world of increasing financial censorship and corporate surveillance, we offer a "Code is Law" alternative. Unlike traditional fintech giants, we don't hold your keys, and we don't demand your life story for a simple transaction.
 
+<<<<<<< HEAD
 ## 📊 Pitch Deck & Presentations
 
 Explore the Sovereign Bank vision in your preferred language. Click on the flags below to open the PDF presentation.
@@ -23,6 +24,8 @@ Explore the Sovereign Bank vision in your preferred language. Click on the flags
 
 ---
 
+=======
+>>>>>>> fee557493464391e6e33f8a9d5f2d7dcd535a36b
 ---
 
 ## 🛡️ Competitive Edge: Sovereign Bank vs. The Old Guard
