@@ -22,6 +22,16 @@ Explore the Sovereign Bank vision in your preferred language. Click on the flags
 | **Français** | [Download / View](./docs/presentations/French(Французский—Полная_версия).pdf) | Africa & Europe |
 | **German** | [Download / View](./docs/presentations/German_1_0.pdf) | Africa & Europe |
 
+## ⚙️ Technical Documentation
+
+Detailed technical breakdown of the Sovereign Bank architecture, including smart contract logic, Account Abstraction implementation, and security protocols.
+
+| Language | Technical Whitepaper (PDF) | Focus Areas |
+| :--- | :--- | :--- |
+| 🇺🇸 **English** | [Read Technical Docs](./docs/full_technical_documentation/1.English_Version.Full_Technical_Documentation_&_Whitepaper.pdf) | Architecture, ERC-4337, Gas Optimization |
+| 🇷🇺 **Русский** | [Техническое описание](./docs/full_technical_documentation/2.ПОЛНАЯ_ТЕХНИЧЕСКАЯ_ДОКУМЕНТАЦИЯ.Full_Technical_Documentation.pdf) | Архитектура, Смарт-контракты, Безопасность |
+
+---
 
 ---
 
