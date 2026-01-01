@@ -17,7 +17,7 @@ Explore the Sovereign Bank vision in your preferred language. Click on the flags
 | **English** | [Download / View](./docs/presentations/English_Version_(International_Standard)Sovereign-Web3-Bank.pdf) | Global & Institutional |
 | **Español** | [Download / View](./docs/presentations/Spanish.pdf) | LATAM & Spain |
 | **Русский** | [Download / View](./docs/presentations/rus.Sovereign-Web3-Bank_РУС.pdf) | CIS & Relocators |
-| **中文 (Chinese)** | [Download / View](./docs/presentations/Chinese_(完整版_-_Sovereign-Web3-Bank_1_2.pdf) | Asian Markets |
+| **中文 (Chinese)** | [Download / View](./docs/presentations/Chinese.pdf) | Asian Markets |
 | 🇦🇪 **العربية (Arabic)** | [Download / View](./docs/presentations/Arabic_(النسخة_الكاملة)Sovereign-Web3-Bank.pdf) | MENA Region |
 | **Français** | [Download / View](./docs/presentations/French(Французский—Полная_версия).pdf) | Africa & Europe |
 | **German** | [Download / View](./docs/presentations/German_1_0.pdf) | Africa & Europe |
