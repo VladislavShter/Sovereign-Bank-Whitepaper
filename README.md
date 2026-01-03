@@ -82,7 +82,8 @@ Sovereign Bank is built for sustainability:
 
 We believe in the power of **community-driven development**. Sovereign Bank is built by the people, for the people.
 
-- 👾 **Discord:** [Join our community](Coming Soon)
+- 👾 ### Join our Community
+[Discord Server](https://discord.gg/9KmjzTbvgF)
 - ✈️ **Telegram:** [Follow the Founder's Journey](Coming Soon)
 - 🐙 **GitHub:** Star this repo to support the movement!
 
