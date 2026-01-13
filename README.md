@@ -84,7 +84,7 @@ We believe in the power of **community-driven development**. Sovereign Bank is b
 
 - 👾 ### Join our Community
 [Discord Server](https://discord.gg/9KmjzTbvgF)
-- ✈️ **Telegram:** [Follow the Founder's Journey](Coming Soon)
+- ✈️ **Telegram:** (https://t.me/sovereign_bank_Web3)
 - 🐙 **GitHub:** Star this repo to support the movement!
 
 ---
