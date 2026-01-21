@@ -7,7 +7,12 @@ Sovereign Bank is a decentralized financial ecosystem designed to empower freela
 ## 🌟 Our Mission
 In a world of increasing financial censorship and corporate surveillance, we offer a "Code is Law" alternative. Unlike traditional fintech giants, we don't hold your keys, and we don't demand your life story for a simple transaction.
 
-🏦 Sovereign Bank Core: Production-Grade Architecture Ready 🚀
+<h1 align="center">🏦 Sovereign Bank Core: Production-Grade Architecture Ready 🚀</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-0.8.20-blue?style=for-the-badge&logo=solidity" />
+  <img src="https://img.shields.io/badge/Security-Social_Recovery-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Audited_Logic-orange?style=for-the-badge" />
+</p>
 We skipped the "MVP sandbox" stage. Sovereign Bank is built on an enterprise-grade stack matching the top DeFi protocols. We have established a robust foundation that is scalable, secure, and ready for global expansion.
 
 🛠 Technical Excellence (The Core)
