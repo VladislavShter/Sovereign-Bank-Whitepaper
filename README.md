@@ -7,39 +7,24 @@ Sovereign Bank is a decentralized financial ecosystem designed to empower freela
 ## 🌟 Our Mission
 In a world of increasing financial censorship and corporate surveillance, we offer a "Code is Law" alternative. Unlike traditional fintech giants, we don't hold your keys, and we don't demand your life story for a simple transaction.
 
-# 🛡️ Feature Highlight: Anti-Poisoning & Ironclad Security Mode
-
-We’ve introduced a world-class security layer to protect users from the most common DeFi attacks, including **Address Poisoning** and **Clipboard Hijacking**.
-
-### 🔴 The Problem
-In the current Web3 landscape, one copy-paste error or a "poisoned" transaction in your history can lead to a total loss of funds. Scammers create addresses that look 99% like yours, hoping you'll use them by mistake.
-
-### 🟢 Our Solution: Sovereign Strict Mode™
-Sovereign Bank Pro now features a built-in, contract-level **Trusted Address Manager**.
-
-* **Verified Contacts:** Maintain your own encrypted list of trusted recipients directly on-chain.
-* **Strict Mode Enforcement:** When enabled, the smart contract acts as an automated firewall. It will **revert** any transaction attempt to an unverified address.
-* **Human-Readable Aliases:** No more guessing hex strings. Tag your addresses (e.g., "Exchange", "Cold Storage") for 100% certainty.
-
 ### ⚙️ How it works (Execution Flow)
 
 ```mermaid
 graph TD
-    A[User Initiates Payment] --> B{Is Strict Mode ON?}
+    A([User Initiates Payment]) --> B{Strict Mode ON?}
     
-    B -- YES --> C{Recipient in Trusted List?}
+    B -- YES --> C{Recipient Trusted?}
     B -- NO --> D[Standard Limit Checks]
     
-    C -- FOUND ✅ --> D
-    C -- NOT FOUND ❌ --> E[⛔ TRANSACTION REVERTED]
+    C -- YES --> D
+    C -- NO --> E[REJECTED: Recipient Not Trusted]
     
-    D --> F[Check Balance & Daily Limits]
-    F -- OK --> G[💸 Payment Processed]
-    F -- FAILED --> E
+    D --> F{Limits & Balance OK?}
+    F -- YES --> G[SUCCESS: Payment Processed]
+    F -- NO --> E
     
-    style E fill:#f96,stroke:#333,stroke-width:2px
-    style G fill:#9f9,stroke:#333,stroke-width:2px
-    style C color:#fff,fill:#0080ff,stroke:#004c99
+    style E fill:#ffcccc,stroke:#333,stroke-width:2px
+    style G fill:#ccffcc,stroke:#333,stroke-width:2px
 
 <h1 align="center">🏦 Sovereign Bank Core: Production-Grade Architecture Ready 🚀</h1>
 <p align="center">
