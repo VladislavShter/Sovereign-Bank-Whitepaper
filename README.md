@@ -7,38 +7,6 @@ Sovereign Bank is a decentralized financial ecosystem designed to empower freela
 ## 🌟 Our Mission
 In a world of increasing financial censorship and corporate surveillance, we offer a "Code is Law" alternative. Unlike traditional fintech giants, we don't hold your keys, and we don't demand your life story for a simple transaction.
 
-<h1 align="center">🛡️ Sovereign Strict Mode: Ironclad Security 🚀</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Security-Address_Poisoning_Protection-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Protocol_Enforced-green?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>The ultimate defense against Address Poisoning and Clipboard Hijacking.</b>
-</p>
-
----
-
-### ⚙️ How it works: The Sovereign Firewall
-
-```mermaid
-graph TD
-    A([User Initiates Payment]) --> B{Strict Mode ON?}
-    
-    B -- YES --> C{Recipient Trusted?}
-    B -- NO --> D[Standard Limit Checks]
-    
-    C -- YES --> D
-    C -- NO --> E[REJECTED: Recipient Not Trusted]
-    
-    D --> F{Limits & Balance OK?}
-    F -- YES --> G[SUCCESS: Payment Processed]
-    F -- NO --> E
-    
-    style E fill:#ffcccc,stroke:#333,stroke-width:2px
-    style G fill:#ccffcc,stroke:#333,stroke-width:2px
-
 <h1 align="center">🏦 Sovereign Bank Core: Production-Grade Architecture Ready 🚀</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-0.8.20-blue?style=for-the-badge&logo=solidity" />
