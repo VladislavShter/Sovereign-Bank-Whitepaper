@@ -7,7 +7,7 @@ Sovereign Bank is a decentralized financial ecosystem designed to empower freela
 ## 🌟 Our Mission
 In a world of increasing financial censorship and corporate surveillance, we offer a "Code is Law" alternative. Unlike traditional fintech giants, we don't hold your keys, and we don't demand your life story for a simple transaction.
 
-### ⚙️ How it works (Execution Flow)
+### ⚙️ How it works: Sovereign Strict Mode
 
 ```mermaid
 graph TD
@@ -17,14 +17,14 @@ graph TD
     B -- NO --> D[Standard Limit Checks]
     
     C -- YES --> D
-    C -- NO --> E[REJECTED: Recipient Not Trusted]
+    C -- NO --> E[REJECTED: Not Trusted]
     
     D --> F{Limits & Balance OK?}
-    F -- YES --> G[SUCCESS: Payment Processed]
+    F -- YES --> G[SUCCESS: Processed]
     F -- NO --> E
     
-    style E fill:#ffcccc,stroke:#333,stroke-width:2px
-    style G fill:#ccffcc,stroke:#333,stroke-width:2px
+    style E fill:#ff9999,stroke:#333,stroke-width:2px
+    style G fill:#99ff99,stroke:#333,stroke-width:2px
 
 <h1 align="center">🏦 Sovereign Bank Core: Production-Grade Architecture Ready 🚀</h1>
 <p align="center">
