@@ -89,8 +89,6 @@ Detailed technical breakdown of the Sovereign Bank architecture, including smart
 
 ---
 
-=======
->>>>>>> fee557493464391e6e33f8a9d5f2d7dcd535a36b
 ---
 
 ## 🛡️ Competitive Edge: Sovereign Bank vs. The Old Guard
