@@ -8,21 +8,32 @@ Sovereign Bank is a decentralized financial ecosystem designed to empower freela
 In a world of increasing financial censorship and corporate surveillance, we offer a "Code is Law" alternative. Unlike traditional fintech giants, we don't hold your keys, and we don't demand your life story for a simple transaction.
 
 🛡️ Feature Highlight: Anti-Poisoning & Ironclad Security Mode
-We’ve introduced a world-class security layer to protect users from the most common DeFi attacks, including Address Poisoning and Clipboard Hijacking.
+[!IMPORTANT] Sovereign Bank Pro is the first protocol to shift fraud protection from vulnerable wallet UI settings directly into immutable smart contract code.
 
-The Problem
-In the current Web3 landscape, one copy-paste error or a "poisoned" transaction in your history can lead to a total loss of funds. Scammers create addresses that look 99% like yours, hoping you'll use them by mistake.
+🔴 The Problem: Address Poisoning & Clipboard Hijacking
+In the current Web3 landscape, a single copy-paste error can result in total loss of funds. Scammers use "Address Poisoning" to flood your history with addresses that look 99% identical to yours (same starting and ending characters), hoping you'll accidentally copy their address during your next transaction.
 
-Our Solution: Sovereign Strict Mode™
-Sovereign Bank Pro now features a built-in, contract-level Trusted Address Manager.
+🟢 Our Solution: Sovereign Strict Mode™
+We have implemented a native, contract-level Trusted Address Manager.
 
-Verified Contacts: Maintain your own encrypted list of trusted recipients directly on-chain.
+Verified Contacts: Maintain your own encrypted list of trusted recipients directly on-chain. This is your personal "Whitelist," secured by the blockchain itself.
 
-Strict Mode Enforcement: When enabled, the smart contract acts as an automated firewall. It will revert any transaction attempt to an unverified address.
+Strict Mode Enforcement: When enabled, the smart contract acts as an automated firewall. Any attempt to send funds to an unverified address will be instantly reverted by the network.
 
-Human-Readable Aliases: No more guessing hex strings. Tag your addresses (e.g., "Exchange", "Cold Storage") for 100% certainty.
+Human-Readable Aliases: No more guessing hex strings. Tag your addresses (e.g., "My Ledger", "Exchange", "Alice") for 100% certainty before every transfer.
 
-Why it’s a game-changer: Unlike simple wallet address books, Sovereign Bank's security is hardcoded. Even if a malicious dApp tries to trick you into signing a transaction to a scammer, our contract will block it at the execution level.
+⚙️ How it works (Step-by-Step Security)
+Initiation: The user signs a transaction.
+
+Strict Mode Check: The contract instantly triggers a check: "Is Strict Mode active for this user?"
+
+Verification: If active, the contract cross-references the recipient's address with your on-chain Trusted List.
+
+Result: * IF MATCHED: The transaction proceeds to limit/balance checks and executes. ✅
+
+IF NOT MATCHED: The transaction is REVERTED immediately. Your funds never leave the vault, and the scammer's attack fails. ⛔
+
+[!TIP] Why it’s a game-changer: Unlike traditional wallet "address books" that can be manipulated by phishing sites or malicious dApps, Sovereign Bank’s security is hardcoded. Even if a malicious front-end tricks you into signing a transaction, our smart contract will block it at the execution level.
 
 <h1 align="center">🏦 Sovereign Bank Core: Production-Grade Architecture Ready 🚀</h1>
 <p align="center">
